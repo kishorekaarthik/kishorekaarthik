@@ -1,7 +1,6 @@
-Hi 👋 i'm Kishore Kaarthik
+Hi i'm Kishore Kaarthik
 ========================================================================================================================================
 
-* Chennai
 * Ping me at [skishorekaarthik@gmail.com](mailto:skishorekaarthik@gmail.com)
 
 ### Skills
